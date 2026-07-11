@@ -1,5 +1,5 @@
 #ifndef GRADE_ANALYZER_HPP
-#define GRADE_ANALYZER_HPP
+#define GRADE_ANALYZER_HP
 
 const double A_MINIMUM = 90.0;
 const double B_MINIMUM = 80.0;
